@@ -1,4 +1,6 @@
 ! Title: Earthworm-Banana's Filters (All)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/01/22
 
 ! 2024-01-22 https://yandex.com
 yandex.com##.AdvMastHead
