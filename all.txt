@@ -1,0 +1,21 @@
+! 2024-01-22 https://yandex.com
+yandex.com##.AdvMastHead
+yandex.com##.ImagesViewer-SidebarAdv
+yandex.com##.AdvRsyaCrossPage
+yandex.com##.images-viewer-content2__behavioral-direct
+yandex.com##.AdvRsyaSearchColumn
+
+! 2024-01-22 https://hypnotube.com
+||cdn.hypnotube.com/images/lovenseSmall.gif$image
+||cdn.hypnotube.com/images/patreonAd01.gif$image
+||cdn.hypnotube.com/images/lovense1.gif$image
+||cdn.hypnotube.com/images/hypnoFemClub02.gif$image
+||cdn.hypnotube.com/images/hypnoFemClub02.gif$image
+hypnotube.com##.network-sec
+hypnotube.com##.col.aff-content-col
+hypnotube.com##[href="https://hypnouniversity.net/"]
+hypnotube.com##div.top-ban-item > [href="https://lovense.com/p/Hypnotube"]
+hypnotube.com##[href="https://hypnofem.club/collections/featured"]
+hypnotube.com##.aff-item-list-aside.aff-item-list [href="https://hypnotube.com/static/games"]
+hypnotube.com##[href^="//ptapjmp.com/"]
+hypnotube.com##.aside-itempage-col
