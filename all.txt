@@ -1,3 +1,5 @@
+! Title: Earthworm-Banana's Filters (All)
+
 ! 2024-01-22 https://yandex.com
 yandex.com##.AdvMastHead
 yandex.com##.ImagesViewer-SidebarAdv
