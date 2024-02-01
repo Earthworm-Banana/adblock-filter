@@ -1,10 +1,7 @@
-! Title: Earthworm-Banana's Filters (All)
+! Title: Earthworm-Banana's Filters (hypnotube.com)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
 ! Last modified: 2024/02/01
 
-
-! Source File: hypnotube.com
-! 2024/02/01
 
 hypnotube.com##.aff-item-list-aside.aff-item-list [href="https://hypnotube.com/static/games"]
 hypnotube.com##.aside-itempage-colge-col
@@ -18,15 +15,3 @@ hypnotube.com##div.top-ban-item > [href="https://lovense.com/p/Hypnotube"]
 ||cdn.hypnotube.com/images/lovense1.gif$image
 ||cdn.hypnotube.com/images/lovenseSmall.gif$image
 ||cdn.hypnotube.com/images/patreonAd01.gif$image
-
-
-
-! Source File: yandex.com
-! 2024/02/01
-
-yandex.com##.AdvMastHead
-yandex.com##.AdvRsyaCrossPage
-yandex.com##.AdvRsyaSearchColumnarchColumnColumn
-yandex.com##.ImagesViewer-SidebarAdv
-yandex.com##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
-yandex.com##.images-viewer-content2__behavioral-direct
