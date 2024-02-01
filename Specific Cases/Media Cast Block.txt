@@ -3,4 +3,4 @@
 ! Last modified: 2024/02/01
 
 
-||www.gstatic.com/*/cast_sender.js
+||gstatic.com/*/cast_sender.js
