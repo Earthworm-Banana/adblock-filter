@@ -36,6 +36,34 @@ pornwebmasters.com##.quotes
 
 
 
+! Source File: sxyprn.com
+! 2024/02/01
+
+www.sxyprn.com##.p72dp06eyde8
+www.sxyprn.com##.post_el_wrap > .tdn
+www.sxyprn.com##.sharing_toolbox
+||a.adtng.com^$domain=sxyprn.com
+||a.labadena.com/*$domain=sxyprn.com
+||a.magsrv.com/ad-provider.js$domain=sxyprn.com
+||a.magsrv.com/video-outstream.js$script,domain=sxyprn.com
+||bymyth.com^$domain=sxyprn.com
+||cdn.tapioni.com^$domain=sxyprn.com
+||friendshipmale.com^$domain=sxyprn.com
+||go.static-srv.com^$domain=sxyprn.com
+||kgfjrb711.com^$script,domain=sxyprn.com
+||ku42hjr2e.com/solid.gif
+||ku42hjr2e.com^$domain=sxyprn.com
+||limurol.com^$domain=sxyprn.com
+||lzxdx24yib.com^$domain=sxyprn.com
+||region1.google-analytics.com/g/*$domain=sxyprn.com
+||s.magsrv.com/splash.php$xhr,domain=sxyprn.com
+||tibdumzfigf.com/solid.gif$domain=sxyprn.com
+||tibdumzfigf.com^$domain=sxyprn.com
+||www.google-analytics.com/analytics.js$domain=sxyprn.com
+||www.googletagmanager.com^$domain=sxyprn.com
+
+
+
 ! Source File: theporndude.com
 ! 2024/02/01
 
