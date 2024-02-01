@@ -8,9 +8,10 @@ This is where I share my custom uBlock Origin filters. They're my personal touch
 
 Below is the list of filter files I've compiled. Right now, it's a short list, but keep an eye out for updates!
 
-| Filter List | Description |
-|-------------|-------------|
-| [`all.txt`](https://raw.githubusercontent.com/Earthworm-Banana/adblock-filter/main/all.txt) | My initial set of filters |
+
+| Filter List                                                                                 | URL                                                                                | Description                                                                                 |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| [`all.txt`](https://raw.githubusercontent.com/Earthworm-Banana/adblock-filter/main/all.txt) | **https://raw.githubusercontent.com/Earthworm-Banana/adblock-filter/main/all.txt** | All filters from the "Specific Sites" dir it does not include filters from "Specific Cases" |
 
 ## 🚀 How to Use
 

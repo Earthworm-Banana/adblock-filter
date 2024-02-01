@@ -119,3 +119,16 @@ yandex.com##.images-viewer-content2__behavioral-direct
 ||friendshipmale.com/sfp.js$script
 ||tibdumzfigf.com
 ||tibdumzfigf.com/solid.gif
+||js.capndr.com
+
+||adsco.re
+
+||ybs2ffs7v.com
+||storage.multstorage.com
+||1b9ff89c22.f145794b22.com
+||0ef06e4db3.76f74721ab.com
+||js.wpadmngr.com
+
+||cdn.tsyndicate.com^$script
+
+||i.doodcdn.co/ads/*

@@ -3,6 +3,15 @@
 ! Last modified: 2024/02/01
 
 
+||0ef06e4db3.76f74721ab.com
+||1b9ff89c22.f145794b22.com
+||adsco.re
+||cdn.tsyndicate.com^$script
 ||friendshipmale.com/sfp.js$script
+||i.doodcdn.co/ads/*
+||js.capndr.com
+||js.wpadmngr.com
+||storage.multstorage.com
 ||tibdumzfigf.com
 ||tibdumzfigf.com/solid.gif
+||ybs2ffs7v.com
