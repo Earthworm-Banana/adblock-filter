@@ -1,0 +1,7 @@
+! Title: Earthworm-Banana's Filters (pornwebmasters.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/02/01
+
+
+pornwebmasters.com##.quotes
+||pornwebmasters.com/includes/images/tinyloader.svg$image

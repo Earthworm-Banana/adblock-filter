@@ -6,18 +6,40 @@
 ! Source File: hypnotube.com
 ! 2024/02/01
 
+hypnotube.com###playerOverlay
+hypnotube.com##.aff-item-list-aside.aff-item-list
 hypnotube.com##.aff-item-list-aside.aff-item-list [href="https://hypnotube.com/static/games"]
+hypnotube.com##.aff-sec
+hypnotube.com##.aside-itempage-col
 hypnotube.com##.aside-itempage-colge-col
 hypnotube.com##.col.aff-content-col
 hypnotube.com##.network-sec
+hypnotube.com##.top-ban-row
 hypnotube.com##[href="https://hypnofem.club/collections/featured"]
 hypnotube.com##[href="https://hypnouniversity.net/"]
 hypnotube.com##[href^="//ptapjmp.com/"]
 hypnotube.com##div.top-ban-item > [href="https://lovense.com/p/Hypnotube"]
+hypnotube.com##font
 ||cdn.hypnotube.com/images/hypnoFemClub02.gif$image
 ||cdn.hypnotube.com/images/lovense1.gif$image
 ||cdn.hypnotube.com/images/lovenseSmall.gif$image
 ||cdn.hypnotube.com/images/patreonAd01.gif$image
+||poweredby.jads.co/adshow.php$subdocument
+
+
+
+! Source File: pornwebmasters.com
+! 2024/02/01
+
+pornwebmasters.com##.quotes
+||pornwebmasters.com/includes/images/tinyloader.svg$image
+
+
+
+! Source File: theporndude.com
+! 2024/02/01
+
+theporndude.com##.quotes
 
 
 
