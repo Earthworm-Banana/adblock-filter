@@ -1,0 +1,8 @@
+! Title: Earthworm-Banana's Filters (_Multi Site)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/02/01
+
+
+||friendshipmale.com/sfp.js$script
+||tibdumzfigf.com
+||tibdumzfigf.com/solid.gif

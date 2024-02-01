@@ -1,0 +1,29 @@
+! Title: Earthworm-Banana's Filters (do0od.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/02/01
+
+
+||adsco.re^$domain=do0od.com
+||alas4kanmfa6a4mubte.com^$domain=do0od.com
+||betotodilea.com^$domain=do0od.com
+||blockadsnot.com^$domain=do0od.com
+||breakfastinvitingdetergent.com^$domain=do0od.com
+||bytogeticr.com^$domain=do0od.com
+||cdn.barscreative1.com^$domain=do0od.com
+||cdn.creative-bars1.com^$domain=do0od.com
+||cdn.tsyndicate.com^$domain=do0od.com
+||do0od.com/sw.js$script,1p
+||forfeitsubscribe.com^$domain=do0od.com
+||friendshipmale.com^$domain=do0od.com
+||i.doodcdn.co/ads/*$domain=do0od.com
+||ittontrinevengre.info^$domain=do0od.com
+||ja2n2u30a6rgyd.com^$domain=do0od.com
+||jkixqmndlszr.com^$domain=do0od.com
+||ku42hjr2e.com^$domain=do0od.com
+||orgotitedu.info^$domain=do0od.com
+||pohsoneche.info^$domain=do0od.com
+||pringed.space^$domain=do0od.com
+||talouktaboutrice.info^$domain=do0od.com
+||tibdumzfigf.com^$domain=do0od.com
+||wudaoutsjuxbd.com^$domain=do0od.com
+||www.gstatic.com/*/cast_sender.js$domain=do0od.com

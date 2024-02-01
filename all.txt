@@ -3,6 +3,36 @@
 ! Last modified: 2024/02/01
 
 
+! Source File: do0od.com
+! 2024/02/01
+
+||adsco.re^$domain=do0od.com
+||alas4kanmfa6a4mubte.com^$domain=do0od.com
+||betotodilea.com^$domain=do0od.com
+||blockadsnot.com^$domain=do0od.com
+||breakfastinvitingdetergent.com^$domain=do0od.com
+||bytogeticr.com^$domain=do0od.com
+||cdn.barscreative1.com^$domain=do0od.com
+||cdn.creative-bars1.com^$domain=do0od.com
+||cdn.tsyndicate.com^$domain=do0od.com
+||do0od.com/sw.js$script,1p
+||forfeitsubscribe.com^$domain=do0od.com
+||friendshipmale.com^$domain=do0od.com
+||i.doodcdn.co/ads/*$domain=do0od.com
+||ittontrinevengre.info^$domain=do0od.com
+||ja2n2u30a6rgyd.com^$domain=do0od.com
+||jkixqmndlszr.com^$domain=do0od.com
+||ku42hjr2e.com^$domain=do0od.com
+||orgotitedu.info^$domain=do0od.com
+||pohsoneche.info^$domain=do0od.com
+||pringed.space^$domain=do0od.com
+||talouktaboutrice.info^$domain=do0od.com
+||tibdumzfigf.com^$domain=do0od.com
+||wudaoutsjuxbd.com^$domain=do0od.com
+||www.gstatic.com/*/cast_sender.js$domain=do0od.com
+
+
+
 ! Source File: hypnotube.com
 ! 2024/02/01
 
@@ -80,3 +110,12 @@ yandex.com##.AdvRsyaSearchColumnarchColumnColumn
 yandex.com##.ImagesViewer-SidebarAdv
 yandex.com##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
 yandex.com##.images-viewer-content2__behavioral-direct
+
+
+
+! Source File: _Multi Site
+! 2024/02/01
+
+||friendshipmale.com/sfp.js$script
+||tibdumzfigf.com
+||tibdumzfigf.com/solid.gif
