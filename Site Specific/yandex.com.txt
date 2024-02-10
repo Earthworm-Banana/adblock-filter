@@ -10,6 +10,8 @@ yandex.com##.AdvRsyaSearchColumnarchColumnColumn
 yandex.com##.ImagesViewer-SidebarAdv
 yandex.com##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
 yandex.com##.images-viewer-content2__behavioral-direct
+yandex.com##.j6EpkLueUNnrb-Card_jx2hDMaycFX_f.j6EpkLueUNnrb-Card
+yandex.com##div.j73JEMaqXPX7brv2nhtVsuk2k-Incut
 ||an.yandex.ru^$domain=yandex.com
 ||csp.yandex.net^$domain=yandex.com
 ||mc.yandex.ru^$domain=yandex.com
