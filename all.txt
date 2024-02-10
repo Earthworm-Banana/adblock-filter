@@ -178,13 +178,25 @@ theporndude.com##.quotes
 ! Source File: yandex.com
 ! 2024/02/10
 
+yandex.com###ImagesViewer-SidebarAdv
 yandex.com##.AdvMastHead
 yandex.com##.AdvRsyaCrossPage
 yandex.com##.AdvRsyaSearchColumnarchColumnColumn
 yandex.com##.ImagesViewer-SidebarAdv
 yandex.com##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
 yandex.com##.images-viewer-content2__behavioral-direct
+||an.yandex.ru^$domain=yandex.com
+||csp.yandex.net^$domain=yandex.com
+||mc.yandex.ru^$domain=yandex.com
+||mc.yandex.ru^$script,domain=yandex.com
+||static-mon.yandex.net/advert$domain=yandex.com
 ||static-mon.yandex.net/static/optional.js$domain=yandex.com
+||yandex.com/clck/*$1p
+||yandex.com/images/_crpd/*$ping,1p
+||yandex.com/images/_crpd/*$xhr,1p
+||yandex.com/images/_crpd/ro399o390/*$script,1p
+||yandex.ru/ads/*
+||yastatic.net/s3/fiji-static/_/Cbir*@desktop.*.js$script,domain=yandex.com
 
 
 
