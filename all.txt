@@ -32,6 +32,20 @@
 
 
 
+! Source File: duckduckgo.com
+! 2024/02/10
+
+duckduckgo.com##.footer
+duckduckgo.com##.spread-cta--has-top-margin.ia-module--spread-cta.module
+duckduckgo.com##.undefined.NlA6mw4gKSyxk2DUe_96.O9Ipab51rBntYb0pwOQn
+||duckduckgo.com/assets/icons/spread.svg$image,1p
+||duckduckgo.com/post3.html$subdocument,1p
+||duckduckgo.com/t.js$script,1p
+||improving.duckduckgo.com^$ping,1p
+||links.duckduckgo.com/d.js$script,1p
+
+
+
 ! Source File: fitgirl-repacks.site
 ! 2024/02/10
 
