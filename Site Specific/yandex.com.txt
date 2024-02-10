@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (yandex.com)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/01
+! Last modified: 2024/02/10
 
 
 yandex.com##.AdvMastHead
@@ -9,3 +9,4 @@ yandex.com##.AdvRsyaSearchColumnarchColumnColumn
 yandex.com##.ImagesViewer-SidebarAdv
 yandex.com##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
 yandex.com##.images-viewer-content2__behavioral-direct
+||static-mon.yandex.net/static/optional.js$domain=yandex.com

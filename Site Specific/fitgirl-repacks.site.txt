@@ -1,0 +1,18 @@
+! Title: Earthworm-Banana's Filters (fitgirl-repacks.site)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/02/10
+
+
+fitgirl-repacks.site###jBnskDj9
+fitgirl-repacks.site##.entry-content > div > p
+fitgirl-repacks.site##.widget_custom_html.widget.widget_text
+fitgirl-repacks.site##p > [href="https://fitgirl-repacks.site/donations/"]
+||fitgirl-repacks-site.disqus.com^
+||fitgirl-repacks.site/wp-content/plugins/disqus-comment-system/public/js/comment_count.js$script,1p
+||fitgirl-repacks.site/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js$script,1p
+||fitgirl-repacks.site/wp-content/uploads/2020/08/screen_setup.jpg$image,1p
+||fitgirl-repacks.site/wp-content/uploads/2021/05/garold.jpg$image,1p
+||fitgirl-repacks.site/wp-content/uploads/2023/07/donimg.jpg$image
+||fitgirl-repacks.site/wp-includes/js/comment-reply.min.js$script,1p
+||torrent-stats.info^$domain=fitgirl-repacks.site
+||www.youtube.com^$subdocument,domain=fitgirl-repacks.site
