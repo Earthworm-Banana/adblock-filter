@@ -1,0 +1,40 @@
+! Title: Earthworm-Banana's Filters (forbes.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/02/10
+
+
+www.forbes.com###article-container-1 > .top-ad__hide-label.top-ad__individual-content.fbs-ad--top-wrapper.top-ad-container
+www.forbes.com###article-stream-0 > .openWeb-wrapper
+www.forbes.com##.DlCaB.QXUyNUJu.iIKugdJM
+www.forbes.com##.cnx-is-playing.cnx-in-ps-video-layout.cnx-ui-ps.cnx-ui
+www.forbes.com##.cnx-size-responsive.cnx-player-wrapper
+www.forbes.com##.embed-7.link-embed.color-body-border.color-body.embed-base
+www.forbes.com##.embed-9.link-embed.color-body-border.color-body.embed-base
+www.forbes.com##.embedly-align.embed-base
+www.forbes.com##.fbs-ad--top-wrapper--desktop.top-ad__hide-label.top-ad__individual-content.fbs-ad--top-wrapper.top-ad-container
+www.forbes.com##.global-header__subscribe_to_newsletters
+www.forbes.com##.newsLetterSubscriptionLink.bs0FQ63V
+www.forbes.com##.seo.recirc-module
+www.forbes.com##.vestpocket
+||capi.connatix.com^$xhr,domain=forbes.com
+||cd.connatix.com^$domain=forbes.com
+||cdn.ketchjs.com/plugins/static/tcf/vendor-list.json$xhr,domain=forbes.com
+||cdn.ketchjs.com^$script,domain=forbes.com
+||cdn.p-n.io/pushly-sw.min.js$script
+||cds.connatix.com^$domain=forbes.com
+||embedly.forbes.com^$subdocument,domain=forbes.com
+||geolocation.forbes.com^$1p
+||global.ketchcdn.com^$domain=forbes.com
+||global.ketchcdn.com^$ping,domain=forbes.com
+||imasdk.googleapis.com^$subdocument,domain=forbes.com
+||lit.connatix.com^$domain=www.forbes.com
+||lit.connatix.com^$xhr,domain=www.forbes.com
+||pl.connatix.com^$domain=forbes.com
+||sdk.sharethrough.com^$script,domain=forbes.com
+||storage.googleapis.com^$script,domain=forbes.com
+||www.forbes.com/blaize/*
+||www.forbes.com/service-worker.js$1p
+||www.forbes.com/service-worker.js$script,1p
+||www.forbes.com/sites/*/article/*/?malcolm=A&api=true&streamIndex=1
+||www.forbes.com/workbox/sw.js$1p
+||www.youtube.com^$subdocument,domain=forbes.com
