@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (do0od.com)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/01
+! Last modified: 2024/02/10
 
 
 ||adsco.re^$domain=do0od.com
@@ -26,4 +26,3 @@
 ||talouktaboutrice.info^$domain=do0od.com
 ||tibdumzfigf.com^$domain=do0od.com
 ||wudaoutsjuxbd.com^$domain=do0od.com
-||www.gstatic.com/*/cast_sender.js$domain=do0od.com
