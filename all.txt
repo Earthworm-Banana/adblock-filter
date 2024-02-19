@@ -132,6 +132,19 @@ hypnotube.com##font
 
 
 
+! Source File: motherless.com
+! 2024/02/19
+
+motherless.com##.text-center
+motherless.com##.text-right.view-right
+motherless.com##.view-top-referers-wrapper
+motherless.com##div.col-md-12:nth-of-type(2)
+motherless.com##div.col-md-12:nth-of-type(3)
+||cdn5-static.motherlessmedia.com/images/we_want_you.jpg$domain=motherless.com
+||motherless.com/scripts/site_ads.js$1p
+
+
+
 ! Source File: pornwebmasters.com
 ! 2024/02/01
 
@@ -238,13 +251,18 @@ yandex.ru##rect
 
 
 ! Source File: _Multi Site
-! 2024/02/01
+! 2024/02/19
 
 ||0ef06e4db3.76f74721ab.com
 ||1b9ff89c22.f145794b22.com
+||a.magsrv.com^
+||ad.twinrdengine.com
 ||adsco.re
 ||cdn.tsyndicate.com^$script
+||creative.xlirdr.com
 ||friendshipmale.com/sfp.js$script
+||google-analytics.com^
+||googletagmanager.com^
 ||i.doodcdn.co/ads/*
 ||js.capndr.com
 ||js.wpadmngr.com
