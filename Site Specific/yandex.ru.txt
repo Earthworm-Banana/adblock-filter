@@ -1,0 +1,30 @@
+! Title: Earthworm-Banana's Filters (yandex.ru)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/02/19
+
+
+yandex.ru###ImagesViewer-SidebarAdv
+yandex.ru##.AdvMastHead
+yandex.ru##.AdvRsyaCrossPage
+yandex.ru##.AdvRsyaSearchColumn
+yandex.ru##.AdvRsyaSearchColumnarchColumnColumn
+yandex.ru##.ImagesViewer-SidebarAdv
+yandex.ru##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
+yandex.ru##.images-viewer-content2__behavioral-direct
+yandex.ru##.j6EpkLueUNnrb-Card_jx2hDMaycFX_f.j6EpkLueUNnrb-Card
+yandex.ru##[class$="-Incut"]
+yandex.ru##rect
+||an.yandex.ru^$domain=yandex.ru
+||csp.yandex.net^$domain=yandex.ru
+||mc.yandex.ru^$domain=yandex.ru
+||mc.yandex.ru^$script,domain=yandex.ru
+||static-mon.yandex.net/advert$domain=yandex.ru
+||static-mon.yandex.net/static/optional.js$domain=yandex.ru
+||yandex.ru/ads/*
+||yandex.ru/clck/*$1p
+||yandex.ru/images/_crpd/*$ping,1p
+||yandex.ru/images/_crpd/*$xhr,1p
+||yandex.ru/images/_crpd/9C9kdB331/e58cb0BBFF/*$script,1p
+||yandex.ru/images/_crpd/ro399o390/*$script,1p
+||yastatic.net/pcode/adfox/*$domain=yandex.ru
+||yastatic.net/s3/fiji-static/_/Cbir*@desktop.*.js$script,domain=yandex.ru
