@@ -1,0 +1,12 @@
+! Title: Earthworm-Banana's Filters (motherless.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/02/19
+
+
+motherless.com##.text-center
+motherless.com##.text-right.view-right
+motherless.com##.view-top-referers-wrapper
+motherless.com##div.col-md-12:nth-of-type(2)
+motherless.com##div.col-md-12:nth-of-type(3)
+||cdn5-static.motherlessmedia.com/images/we_want_you.jpg$domain=motherless.com
+||motherless.com/scripts/site_ads.js$1p
