@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (All)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/25
+! Last modified: 2024/02/26
 
 
 ! Source File: do0od.com
@@ -189,7 +189,7 @@ theporndude.com##.quotes
 
 
 ! Source File: yandex.com
-! 2024/02/18
+! 2024/02/26
 
 yandex.com###ImagesViewer-SidebarAdv
 yandex.com##.AdvMastHead
@@ -218,9 +218,8 @@ yandex.com##rect
 
 
 
-
 ! Source File: yandex.ru
-! 2024/02/19
+! 2024/02/26
 
 yandex.ru###ImagesViewer-SidebarAdv
 yandex.ru##.AdvMastHead
@@ -246,7 +245,6 @@ yandex.ru##rect
 ||yandex.ru/images/_crpd/9C9kdB331/e58cb0BBFF/*$script,1p
 ||yandex.ru/images/_crpd/ro399o390/*$script,1p
 ||yastatic.net/pcode/adfox/*$domain=yandex.ru
-||yastatic.net/s3/fiji-static/_/Cbir*@desktop.*.js$script,domain=yandex.ru
 
 
 
