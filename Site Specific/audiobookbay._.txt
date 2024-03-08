@@ -1,0 +1,12 @@
+! Title: Earthworm-Banana's Filters (audiobookbay._)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/03/08
+
+
+audiobookbay.*###rsidebar > ul > li:nth-of-type(2) > ul > li
+audiobookbay.*###rsidebar > ul > li:nth-of-type(4) > h2
+audiobookbay.*###rsidebar div
+audiobookbay.*##.footer > p:nth-of-type(1)
+audiobookbay.*##.yellow
+||audiobookbay.*/images/dire.gif$image
+||audiobookbay.*/wp-content/themes/simplebalance/img/background.png$image
