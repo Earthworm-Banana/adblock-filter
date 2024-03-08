@@ -5,13 +5,18 @@
 
 ! Source File: audiobookbay._
 ! 2024/03/08
+
 audiobookbay.*###rsidebar > ul > li:nth-of-type(2) > ul > li
 audiobookbay.*###rsidebar > ul > li:nth-of-type(4) > h2
 audiobookbay.*###rsidebar div
 audiobookbay.*##.footer > p:nth-of-type(1)
 audiobookbay.*##.yellow
+||apis.google.com/js/platform.js$domain=audiobookbay.*
 ||audiobookbay.*/images/dire.gif$image
 ||audiobookbay.*/wp-content/themes/simplebalance/img/background.png$image
+||connect.facebook.net^$domain=audiobookbay.*
+||platform.twitter.com^$domain=audiobookbay.*,important
+||platform.twitter.com^$subdocument,domain=audiobookbay.*
 
 
 
@@ -298,6 +303,16 @@ yandex.ru##rect
 ||yandex.ru/images/_crpd/9C9kdB331/e58cb0BBFF/*$script,1p
 ||yandex.ru/images/_crpd/ro399o390/*$script,1p
 ||yastatic.net/pcode/adfox/*$domain=yandex.ru
+
+
+
+! Source File: youtube.com
+! 2024/03/08
+
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+||fonts.gstatic.com^$font,domain=youtube.com
+||www.youtube.com/api/stats/*$1p
+||www.youtube.com/s/player/*/player_ias.vflset/*/remote.js$script,1p
 
 
 
