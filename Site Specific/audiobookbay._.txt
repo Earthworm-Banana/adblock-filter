@@ -8,5 +8,9 @@ audiobookbay.*###rsidebar > ul > li:nth-of-type(4) > h2
 audiobookbay.*###rsidebar div
 audiobookbay.*##.footer > p:nth-of-type(1)
 audiobookbay.*##.yellow
+||apis.google.com/js/platform.js$domain=audiobookbay.*
 ||audiobookbay.*/images/dire.gif$image
 ||audiobookbay.*/wp-content/themes/simplebalance/img/background.png$image
+||connect.facebook.net^$domain=audiobookbay.*
+||platform.twitter.com^$domain=audiobookbay.*,important
+||platform.twitter.com^$subdocument,domain=audiobookbay.*
