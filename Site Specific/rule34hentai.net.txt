@@ -5,6 +5,7 @@
 
 rule34hentai.net###Featured_Postleft
 rule34hentai.net###Friends_of_Pahealleft
+rule34hentai.net##.form.image_info > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
 rule34hentai.net##[id$="0main"]
 rule34hentai.net##[id$="1main"]
 rule34hentai.net##[id$="2main"]
