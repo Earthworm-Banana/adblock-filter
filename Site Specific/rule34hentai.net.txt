@@ -36,3 +36,4 @@ rule34hentai.net##[id$="wmain"]
 rule34hentai.net##[id$="xmain"]
 rule34hentai.net##[id$="ymain"]
 rule34hentai.net##[id$="zmain"]
+||gravatar.com$domain=rule34hentai.net
