@@ -171,7 +171,7 @@ pornwebmasters.com##.quotes
 
 
 ! Source File: rule34.paheal.net
-! 2024/02/29
+! 2024/03/09
 
 rule34.paheal.net###Featured_Postleft
 rule34.paheal.net###Friends_of_Pahealleft
@@ -198,8 +198,6 @@ rule34.paheal.net##[id$="kmain"]
 rule34.paheal.net##[id$="lmain"]
 rule34.paheal.net##[id$="mmain"]
 rule34.paheal.net##[id$="nmain"]
-rule34.paheal.net##[id$="omain"]
-rule34.paheal.net##[id$="pmain"]
 rule34.paheal.net##[id$="qmain"]
 rule34.paheal.net##[id$="tmain"]
 rule34.paheal.net##[id$="umain"]
@@ -247,6 +245,7 @@ rule34hentai.net##[id$="wmain"]
 rule34hentai.net##[id$="xmain"]
 rule34hentai.net##[id$="ymain"]
 rule34hentai.net##[id$="zmain"]
+||gravatar.com$domain=rule34hentai.net
 
 
 
