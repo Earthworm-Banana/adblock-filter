@@ -1,0 +1,5 @@
+! Title: Earthworm-Banana's Filters (rule34hentai.net)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/03/09
+
+
