@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (All)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/03/08
+! Last modified: 2024/03/09
 
 
 ! Source File: audiobookbay._
@@ -208,6 +208,12 @@ rule34.paheal.net##[id$="wmain"]
 rule34.paheal.net##[id$="xmain"]
 rule34.paheal.net##[id$="ymain"]
 rule34.paheal.net##[id$="zmain"]
+
+
+
+! Source File: rule34hentai.net
+! 2024/03/09
+
 
 
 
