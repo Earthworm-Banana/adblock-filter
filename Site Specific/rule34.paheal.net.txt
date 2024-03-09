@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (rule34.paheal.net)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/29
+! Last modified: 2024/03/09
 
 
 rule34.paheal.net###Featured_Postleft
@@ -28,8 +28,6 @@ rule34.paheal.net##[id$="kmain"]
 rule34.paheal.net##[id$="lmain"]
 rule34.paheal.net##[id$="mmain"]
 rule34.paheal.net##[id$="nmain"]
-rule34.paheal.net##[id$="omain"]
-rule34.paheal.net##[id$="pmain"]
 rule34.paheal.net##[id$="qmain"]
 rule34.paheal.net##[id$="tmain"]
 rule34.paheal.net##[id$="umain"]
