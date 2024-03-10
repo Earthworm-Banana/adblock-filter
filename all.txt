@@ -153,6 +153,86 @@ pornwebmasters.com##.quotes
 
 
 
+! Source File: rule34.paheal.net
+! 2024/03/09
+
+rule34.paheal.net###Featured_Postleft
+rule34.paheal.net###Friends_of_Pahealleft
+rule34.paheal.net##[id$="0main"]
+rule34.paheal.net##[id$="1main"]
+rule34.paheal.net##[id$="2main"]
+rule34.paheal.net##[id$="3main"]
+rule34.paheal.net##[id$="4main"]
+rule34.paheal.net##[id$="5main"]
+rule34.paheal.net##[id$="6main"]
+rule34.paheal.net##[id$="7main"]
+rule34.paheal.net##[id$="8main"]
+rule34.paheal.net##[id$="9main"]
+rule34.paheal.net##[id$="amain"]
+rule34.paheal.net##[id$="bmain"]
+rule34.paheal.net##[id$="cmain"]
+rule34.paheal.net##[id$="dmain"]
+rule34.paheal.net##[id$="fmain"]
+rule34.paheal.net##[id$="gmain"]
+rule34.paheal.net##[id$="hmain"]
+rule34.paheal.net##[id$="imain"]
+rule34.paheal.net##[id$="jmain"]
+rule34.paheal.net##[id$="kmain"]
+rule34.paheal.net##[id$="lmain"]
+rule34.paheal.net##[id$="mmain"]
+rule34.paheal.net##[id$="nmain"]
+rule34.paheal.net##[id$="qmain"]
+rule34.paheal.net##[id$="tmain"]
+rule34.paheal.net##[id$="umain"]
+rule34.paheal.net##[id$="vmain"]
+rule34.paheal.net##[id$="wmain"]
+rule34.paheal.net##[id$="xmain"]
+rule34.paheal.net##[id$="ymain"]
+rule34.paheal.net##[id$="zmain"]
+
+
+
+! Source File: rule34hentai.net
+! 2024/03/09
+
+rule34hentai.net###Featured_Postleft
+rule34hentai.net###Friends_of_Pahealleft
+rule34hentai.net##.form.image_info > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+rule34hentai.net##[id$="0main"]
+rule34hentai.net##[id$="1main"]
+rule34hentai.net##[id$="2main"]
+rule34hentai.net##[id$="3main"]
+rule34hentai.net##[id$="4main"]
+rule34hentai.net##[id$="5main"]
+rule34hentai.net##[id$="6main"]
+rule34hentai.net##[id$="7main"]
+rule34hentai.net##[id$="8main"]
+rule34hentai.net##[id$="9main"]
+rule34hentai.net##[id$="amain"]
+rule34hentai.net##[id$="bmain"]
+rule34hentai.net##[id$="cmain"]
+rule34hentai.net##[id$="dmain"]
+rule34hentai.net##[id$="fmain"]
+rule34hentai.net##[id$="gmain"]
+rule34hentai.net##[id$="hmain"]
+rule34hentai.net##[id$="imain"]
+rule34hentai.net##[id$="jmain"]
+rule34hentai.net##[id$="kmain"]
+rule34hentai.net##[id$="lmain"]
+rule34hentai.net##[id$="mmain"]
+rule34hentai.net##[id$="nmain"]
+rule34hentai.net##[id$="qmain"]
+rule34hentai.net##[id$="tmain"]
+rule34hentai.net##[id$="umain"]
+rule34hentai.net##[id$="vmain"]
+rule34hentai.net##[id$="wmain"]
+rule34hentai.net##[id$="xmain"]
+rule34hentai.net##[id$="ymain"]
+rule34hentai.net##[id$="zmain"]
+||gravatar.com$domain=rule34hentai.net
+
+
+
 ! Source File: sxyprn.com
 ! 2024/02/01
 

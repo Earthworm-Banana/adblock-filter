@@ -1,0 +1,38 @@
+! Title: Earthworm-Banana's Filters (rule34.paheal.net)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/03/09
+
+
+rule34.paheal.net###Featured_Postleft
+rule34.paheal.net###Friends_of_Pahealleft
+rule34.paheal.net##[id$="0main"]
+rule34.paheal.net##[id$="1main"]
+rule34.paheal.net##[id$="2main"]
+rule34.paheal.net##[id$="3main"]
+rule34.paheal.net##[id$="4main"]
+rule34.paheal.net##[id$="5main"]
+rule34.paheal.net##[id$="6main"]
+rule34.paheal.net##[id$="7main"]
+rule34.paheal.net##[id$="8main"]
+rule34.paheal.net##[id$="9main"]
+rule34.paheal.net##[id$="amain"]
+rule34.paheal.net##[id$="bmain"]
+rule34.paheal.net##[id$="cmain"]
+rule34.paheal.net##[id$="dmain"]
+rule34.paheal.net##[id$="fmain"]
+rule34.paheal.net##[id$="gmain"]
+rule34.paheal.net##[id$="hmain"]
+rule34.paheal.net##[id$="imain"]
+rule34.paheal.net##[id$="jmain"]
+rule34.paheal.net##[id$="kmain"]
+rule34.paheal.net##[id$="lmain"]
+rule34.paheal.net##[id$="mmain"]
+rule34.paheal.net##[id$="nmain"]
+rule34.paheal.net##[id$="qmain"]
+rule34.paheal.net##[id$="tmain"]
+rule34.paheal.net##[id$="umain"]
+rule34.paheal.net##[id$="vmain"]
+rule34.paheal.net##[id$="wmain"]
+rule34.paheal.net##[id$="xmain"]
+rule34.paheal.net##[id$="ymain"]
+rule34.paheal.net##[id$="zmain"]

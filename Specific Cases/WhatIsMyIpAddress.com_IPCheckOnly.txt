@@ -1,0 +1,20 @@
+! Title: Earthworm-Banana's Filters (WhatIsMyIpAddress.com - IP Check Only)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/03/09
+
+
+whatismyipaddress.com##.fl-module-heading.fl-module
+whatismyipaddress.com##.fl-node-5d8e3a5751cdb.fl-row-bg-none.fl-row-fixed-width.fl-row > .fl-row-content-wrap
+whatismyipaddress.com##.fl-page-footer-wrap
+whatismyipaddress.com##.fl-screen-reader-text
+whatismyipaddress.com##.footer-inner
+whatismyipaddress.com##.pp-photo-gallery
+whatismyipaddress.com##.right
+whatismyipaddress.com##.wipa-header
+whatismyipaddress.com##.wipa-home-page-tools.fl-node-5d8e8cd141d27.fl-row-bg-color.fl-row-full-width.fl-row > .fl-row-content-wrap
+||app.fusebox.fm^$domain=whatismyipaddress.com
+||fonts.googleapis.com^$domain=whatismyipaddress.com
+||whatismyipaddress.com/fl-builder-css/111$stylesheet,1p
+||whatismyipaddress.com/wp-content/themes/wipa-bb-child/font-awesome/css/all.min.css$stylesheet,1p
+||whatismyipaddress.com/wp-content/themes/wipa-bb-child/src/images/main-logo.png$image,1p
+||whatismyipaddress.com/wp-content/uploads/*$1p

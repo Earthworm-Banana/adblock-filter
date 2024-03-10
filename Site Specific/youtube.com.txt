@@ -1,0 +1,9 @@
+! Title: Earthworm-Banana's Filters (youtube.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/03/08
+
+
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+||fonts.gstatic.com^$font,domain=youtube.com
+||www.youtube.com/api/stats/*$1p
+||www.youtube.com/s/player/*/player_ias.vflset/*/remote.js$script,1p
