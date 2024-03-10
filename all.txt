@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (All)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/25
+! Last modified: 2024/03/10
 
 
 ! Source File: do0od.com
