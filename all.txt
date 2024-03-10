@@ -188,65 +188,34 @@ theporndude.com##.quotes
 
 
 
-! Source File: yandex.com
-! 2024/02/18
+! Source File: yandex._
+! 2024/03/10
 
-yandex.com###ImagesViewer-SidebarAdv
-yandex.com##.AdvMastHead
-yandex.com##.AdvRsyaCrossPage
-yandex.com##.AdvRsyaSearchColumn
-yandex.com##.AdvRsyaSearchColumnarchColumnColumn
-yandex.com##.ImagesViewer-SidebarAdv
-yandex.com##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
-yandex.com##.images-viewer-content2__behavioral-direct
-yandex.com##.j6EpkLueUNnrb-Card_jx2hDMaycFX_f.j6EpkLueUNnrb-Card
-yandex.com##[class$="-Incut"]
-yandex.com##rect
-||an.yandex.ru^$domain=yandex.com
-||csp.yandex.net^$domain=yandex.com
-||mc.yandex.ru^$domain=yandex.com
-||mc.yandex.ru^$script,domain=yandex.com
-||static-mon.yandex.net/advert$domain=yandex.com
-||static-mon.yandex.net/static/optional.js$domain=yandex.com
-||yandex.com/clck/*$1p
-||yandex.com/images/_crpd/*$ping,1p
-||yandex.com/images/_crpd/*$xhr,1p
-||yandex.com/images/_crpd/9C9kdB331/e58cb0BBFF/*$script,1p
-||yandex.com/images/_crpd/ro399o390/*$script,1p
+yandex.*###ImagesViewer-SidebarAdv
+yandex.*##.AdvMastHead
+yandex.*##.AdvRsyaCrossPage
+yandex.*##.AdvRsyaSearchColumn
+yandex.*##.AdvRsyaSearchColumnarchColumnColumn
+yandex.*##.ImagesViewer-SidebarAdv
+yandex.*##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
+yandex.*##.images-viewer-content2__behavioral-direct
+yandex.*##.j6EpkLueUNnrb-Card_jx2hDMaycFX_f.j6EpkLueUNnrb-Card
+yandex.*##[class$="-Incut"]
+yandex.*##rect
+||an.yandex.ru^$domain=yandex.*
+||csp.yandex.net^$domain=yandex.*
+||mc.yandex.ru^$domain=yandex.*
+||mc.yandex.ru^$script,domain=yandex.*
+||static-mon.yandex.net/advert$domain=yandex.*
+||static-mon.yandex.net/static/optional.js$domain=yandex.*
+||yandex.*/clck/*$1p
+||yandex.*/images/_crpd/*$ping,1p
+||yandex.*/images/_crpd/*$xhr,1p
+||yandex.*/images/_crpd/9C9kdB331/e58cb0BBFF/*$script,1p
+||yandex.*/images/_crpd/ro399o390/*$script,1p
 ||yandex.ru/ads/*
-||yastatic.net/pcode/adfox/*$domain=yandex.com
-
-
-
-
-! Source File: yandex.ru
-! 2024/02/19
-
-yandex.ru###ImagesViewer-SidebarAdv
-yandex.ru##.AdvMastHead
-yandex.ru##.AdvRsyaCrossPage
-yandex.ru##.AdvRsyaSearchColumn
-yandex.ru##.AdvRsyaSearchColumnarchColumnColumn
-yandex.ru##.ImagesViewer-SidebarAdv
-yandex.ru##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
-yandex.ru##.images-viewer-content2__behavioral-direct
-yandex.ru##.j6EpkLueUNnrb-Card_jx2hDMaycFX_f.j6EpkLueUNnrb-Card
-yandex.ru##[class$="-Incut"]
-yandex.ru##rect
-||an.yandex.ru^$domain=yandex.ru
-||csp.yandex.net^$domain=yandex.ru
-||mc.yandex.ru^$domain=yandex.ru
-||mc.yandex.ru^$script,domain=yandex.ru
-||static-mon.yandex.net/advert$domain=yandex.ru
-||static-mon.yandex.net/static/optional.js$domain=yandex.ru
-||yandex.ru/ads/*
-||yandex.ru/clck/*$1p
-||yandex.ru/images/_crpd/*$ping,1p
-||yandex.ru/images/_crpd/*$xhr,1p
-||yandex.ru/images/_crpd/9C9kdB331/e58cb0BBFF/*$script,1p
-||yandex.ru/images/_crpd/ro399o390/*$script,1p
-||yastatic.net/pcode/adfox/*$domain=yandex.ru
-||yastatic.net/s3/fiji-static/_/Cbir*@desktop.*.js$script,domain=yandex.ru
+||yastatic.net/pcode/adfox/*$domain=yandex.*
+||yastatic.net/s3/fiji-static/_/Cbir*@desktop.*.js$script,domain=yandex.*
 
 
 
