@@ -1,6 +1,23 @@
 ! Title: Earthworm-Banana's Filters (All)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/03/10
+! Last modified: 2024/03/11
+
+
+! Source File: audiobookbay._
+! 2024/03/08
+
+audiobookbay.*###rsidebar > ul > li:nth-of-type(2) > ul > li
+audiobookbay.*###rsidebar > ul > li:nth-of-type(4) > h2
+audiobookbay.*###rsidebar div
+audiobookbay.*##.footer > p:nth-of-type(1)
+audiobookbay.*##.yellow
+||apis.google.com/js/platform.js$domain=audiobookbay.*
+||audiobookbay.*/images/dire.gif$image
+||audiobookbay.*/wp-content/themes/simplebalance/img/background.png$image
+||connect.facebook.net^$domain=audiobookbay.*
+||platform.twitter.com^$domain=audiobookbay.*,important
+||platform.twitter.com^$subdocument,domain=audiobookbay.*
+
 
 
 ! Source File: do0od.com
@@ -269,7 +286,7 @@ theporndude.com##.quotes
 
 
 ! Source File: yandex._
-! 2024/03/10
+! 2024/03/11
 
 yandex.*###ImagesViewer-SidebarAdv
 yandex.*##.AdvMastHead
@@ -296,6 +313,16 @@ yandex.*##rect
 ||yandex.ru/ads/*
 ||yastatic.net/pcode/adfox/*$domain=yandex.*
 ||yastatic.net/s3/fiji-static/_/Cbir*@desktop.*.js$script,domain=yandex.*
+
+
+
+! Source File: youtube.com
+! 2024/03/08
+
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+||fonts.gstatic.com^$font,domain=youtube.com
+||www.youtube.com/api/stats/*$1p
+||www.youtube.com/s/player/*/player_ias.vflset/*/remote.js$script,1p
 
 
 
