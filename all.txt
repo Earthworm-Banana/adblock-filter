@@ -269,7 +269,7 @@ theporndude.com##.quotes
 
 
 ! Source File: yandex._
-! 2024/03/10
+! 2024/03/14
 
 yandex.*###ImagesViewer-SidebarAdv
 yandex.*##.AdvMastHead
@@ -287,7 +287,7 @@ yandex.*##rect
 ||mc.yandex.ru^$domain=yandex.*
 ||mc.yandex.ru^$script,domain=yandex.*
 ||static-mon.yandex.net/advert$domain=yandex.*
-||static-mon.yandex.net/static/optional.js$domain=yandex.*
+!||static-mon.yandex.net/static/optional.js$domain=yandex.*
 ||yandex.*/clck/*$1p
 ||yandex.*/images/_crpd/*$ping,1p
 ||yandex.*/images/_crpd/*$xhr,1p
@@ -295,7 +295,7 @@ yandex.*##rect
 ||yandex.*/images/_crpd/ro399o390/*$script,1p
 ||yandex.ru/ads/*
 ||yastatic.net/pcode/adfox/*$domain=yandex.*
-||yastatic.net/s3/fiji-static/_/Cbir*@desktop.*.js$script,domain=yandex.*
+!||yastatic.net/s3/fiji-static/_/Cbir*@desktop.*.js$script,domain=yandex.*
 
 
 
