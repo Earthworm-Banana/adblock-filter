@@ -187,6 +187,14 @@ motherless.com##div.col-md-12:nth-of-type(3)
 
 
 
+! Source File: nsfwmonster.com
+! 2024/08/16
+
+nsfwmonster.com##.osBannerPreload
+||camonster.io/streams/streams_live.php$subdocument
+
+
+
 ! Source File: pandorasims.net
 ! 2024/08/16
 
@@ -281,6 +289,16 @@ rule34hentai.net##[id$="xmain"]
 rule34hentai.net##[id$="ymain"]
 rule34hentai.net##[id$="zmain"]
 ||gravatar.com$domain=rule34hentai.net
+
+
+
+! Source File: sissyhypno.com
+! 2024/08/16
+sissyhypno.com##.col.aff-content-col
+sissyhypno.com##.network-sec
+sissyhypno.com##[href="https://bestpornsites.xxx/shemale-porn-sites"]
+sissyhypno.com##center
+||sissyhypno.com/includes/player/logo.png$image
 
 
 
