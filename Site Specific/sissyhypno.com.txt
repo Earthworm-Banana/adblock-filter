@@ -1,0 +1,10 @@
+! Title: Earthworm-Banana's Filters (sissyhypno.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/08/16
+
+
+sissyhypno.com##.col.aff-content-col
+sissyhypno.com##.network-sec
+sissyhypno.com##[href="https://bestpornsites.xxx/shemale-porn-sites"]
+sissyhypno.com##center
+||sissyhypno.com/includes/player/logo.png$image
