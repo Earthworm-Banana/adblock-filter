@@ -1,0 +1,6 @@
+! Title: Earthworm-Banana's Filters (fikfap.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/08/16
+
+
+fikfap.com##.border-brand.story-pulsating-brand.mb-4.relative.border-2.overflow-hidden.justify-center.items-center.flex.rounded-full.h-12.w-12

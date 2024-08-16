@@ -1,10 +1,10 @@
 ! Title: Earthworm-Banana's Filters (All)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/03/11
+! Last modified: 2024/08/16
 
 
 ! Source File: audiobookbay._
-! 2024/03/08
+! 2024/08/16
 
 audiobookbay.*###rsidebar > ul > li:nth-of-type(2) > ul > li
 audiobookbay.*###rsidebar > ul > li:nth-of-type(4) > h2
@@ -15,13 +15,13 @@ audiobookbay.*##.yellow
 ||audiobookbay.*/images/dire.gif$image
 ||audiobookbay.*/wp-content/themes/simplebalance/img/background.png$image
 ||connect.facebook.net^$domain=audiobookbay.*
-||platform.twitter.com^$domain=audiobookbay.*,important
+||platform.twitter.com^$domain=audiobookbay.*
 ||platform.twitter.com^$subdocument,domain=audiobookbay.*
 
 
 
 ! Source File: do0od.com
-! 2024/02/10
+! 2024/08/16
 
 ||adsco.re^$domain=do0od.com
 ||alas4kanmfa6a4mubte.com^$domain=do0od.com
@@ -50,7 +50,7 @@ audiobookbay.*##.yellow
 
 
 ! Source File: duckduckgo.com
-! 2024/02/10
+! 2024/08/16
 
 duckduckgo.com##.footer
 duckduckgo.com##.spread-cta--has-top-margin.ia-module--spread-cta.module
@@ -63,8 +63,15 @@ duckduckgo.com##.undefined.NlA6mw4gKSyxk2DUe_96.O9Ipab51rBntYb0pwOQn
 
 
 
+! Source File: fikfap.com
+! 2024/08/16
+
+fikfap.com##.border-brand.story-pulsating-brand.mb-4.relative.border-2.overflow-hidden.justify-center.items-center.flex.rounded-full.h-12.w-12
+
+
+
 ! Source File: fitgirl-repacks.site
-! 2024/02/10
+! 2024/08/16
 
 fitgirl-repacks.site###blog_subscription-2
 fitgirl-repacks.site###jBnskDj9
@@ -84,7 +91,7 @@ fitgirl-repacks.site##p > [href="https://fitgirl-repacks.site/donations/"]
 
 
 ! Source File: forbes.com
-! 2024/02/10
+! 2024/08/16
 
 www.forbes.com###article-container-1 > .top-ad__hide-label.top-ad__individual-content.fbs-ad--top-wrapper.top-ad-container
 www.forbes.com###article-stream-0 > .openWeb-wrapper
@@ -124,8 +131,15 @@ www.forbes.com##.vestpocket
 
 
 
+! Source File: gdlauncher.com
+! 2024/08/16
+
+gdlauncher.com##[href="https://www.bisecthosting.com/gdl"]
+
+
+
 ! Source File: hypnotube.com
-! 2024/02/01
+! 2024/08/16
 
 hypnotube.com###playerOverlay
 hypnotube.com##.aff-item-list-aside.aff-item-list
@@ -137,7 +151,10 @@ hypnotube.com##.col.aff-content-col
 hypnotube.com##.network-sec
 hypnotube.com##.top-ban-row
 hypnotube.com##[href="https://hypnofem.club/collections/featured"]
+hypnotube.com##[href="https://hypnotube.com/static/games"]
+hypnotube.com##[href="https://hypnotube.com/static/store"]
 hypnotube.com##[href="https://hypnouniversity.net/"]
+hypnotube.com##[href="https://www.hypnotube.lsl.com/en/"]
 hypnotube.com##[href^="//ptapjmp.com/"]
 hypnotube.com##div.top-ban-item > [href="https://lovense.com/p/Hypnotube"]
 hypnotube.com##font
@@ -150,7 +167,7 @@ hypnotube.com##font
 
 
 ! Source File: motherless.com
-! 2024/02/19
+! 2024/08/16
 
 motherless.com##.text-center
 motherless.com##.text-right.view-right
@@ -162,8 +179,17 @@ motherless.com##div.col-md-12:nth-of-type(3)
 
 
 
+! Source File: pandorasims.net
+! 2024/08/16
+
+pandorasims.net##[src="images/3d/adult3d_pnip.gif"]
+||pandorasims.net/images/3d/*.gif$image
+||pandorasims.net/images/3d/adult3d_*.gif$image
+
+
+
 ! Source File: pornwebmasters.com
-! 2024/02/01
+! 2024/08/16
 
 pornwebmasters.com##.quotes
 ||pornwebmasters.com/includes/images/tinyloader.svg$image
@@ -171,7 +197,7 @@ pornwebmasters.com##.quotes
 
 
 ! Source File: rule34.paheal.net
-! 2024/03/09
+! 2024/08/16
 
 rule34.paheal.net###Featured_Postleft
 rule34.paheal.net###Friends_of_Pahealleft
@@ -210,7 +236,7 @@ rule34.paheal.net##[id$="zmain"]
 
 
 ! Source File: rule34hentai.net
-! 2024/03/09
+! 2024/08/16
 
 rule34hentai.net###Featured_Postleft
 rule34hentai.net###Friends_of_Pahealleft
@@ -251,7 +277,7 @@ rule34hentai.net##[id$="zmain"]
 
 
 ! Source File: sxyprn.com
-! 2024/02/01
+! 2024/08/16
 
 www.sxyprn.com##.p72dp06eyde8
 www.sxyprn.com##.post_el_wrap > .tdn
@@ -279,14 +305,14 @@ www.sxyprn.com##.sharing_toolbox
 
 
 ! Source File: theporndude.com
-! 2024/02/01
+! 2024/08/16
 
 theporndude.com##.quotes
 
 
 
 ! Source File: yandex._
-! 2024/03/14
+! 2024/08/16
 
 yandex.*###ImagesViewer-SidebarAdv
 yandex.*##.AdvMastHead
@@ -304,7 +330,7 @@ yandex.*##rect
 ||mc.yandex.ru^$domain=yandex.*
 ||mc.yandex.ru^$script,domain=yandex.*
 ||static-mon.yandex.net/advert$domain=yandex.*
-!||static-mon.yandex.net/static/optional.js$domain=yandex.*
+||yandex-images.clstorage.net^$script,domain=yandex.*
 ||yandex.*/clck/*$1p
 ||yandex.*/images/_crpd/*$ping,1p
 ||yandex.*/images/_crpd/*$xhr,1p
@@ -312,12 +338,11 @@ yandex.*##rect
 ||yandex.*/images/_crpd/ro399o390/*$script,1p
 ||yandex.ru/ads/*
 ||yastatic.net/pcode/adfox/*$domain=yandex.*
-!||yastatic.net/s3/fiji-static/_/Cbir*@desktop.*.js$script,domain=yandex.*
 
 
 
 ! Source File: youtube.com
-! 2024/03/08
+! 2024/08/16
 
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 ||fonts.gstatic.com^$font,domain=youtube.com
@@ -327,7 +352,7 @@ www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 
 
 ! Source File: _Multi Site
-! 2024/02/19
+! 2024/08/16
 
 ||0ef06e4db3.76f74721ab.com
 ||1b9ff89c22.f145794b22.com

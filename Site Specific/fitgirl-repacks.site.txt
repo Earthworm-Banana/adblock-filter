@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (fitgirl-repacks.site)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/10
+! Last modified: 2024/08/16
 
 
 fitgirl-repacks.site###blog_subscription-2

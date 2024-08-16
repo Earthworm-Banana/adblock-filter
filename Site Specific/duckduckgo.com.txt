@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (duckduckgo.com)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/10
+! Last modified: 2024/08/16
 
 
 duckduckgo.com##.footer

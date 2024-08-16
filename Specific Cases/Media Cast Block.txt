@@ -4,3 +4,4 @@
 
 
 ||gstatic.com/*/cast_sender.js
+||www.gstatic.com/*/cast_sender.js

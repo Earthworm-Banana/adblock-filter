@@ -1,0 +1,8 @@
+! Title: Earthworm-Banana's Filters (pandorasims.net)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/08/16
+
+
+pandorasims.net##[src="images/3d/adult3d_pnip.gif"]
+||pandorasims.net/images/3d/*.gif$image
+||pandorasims.net/images/3d/adult3d_*.gif$image

@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (sxyprn.com)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/01
+! Last modified: 2024/08/16
 
 
 www.sxyprn.com##.p72dp06eyde8

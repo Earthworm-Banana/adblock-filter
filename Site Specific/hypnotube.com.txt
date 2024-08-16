@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (hypnotube.com)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/01
+! Last modified: 2024/08/16
 
 
 hypnotube.com###playerOverlay
@@ -13,7 +13,10 @@ hypnotube.com##.col.aff-content-col
 hypnotube.com##.network-sec
 hypnotube.com##.top-ban-row
 hypnotube.com##[href="https://hypnofem.club/collections/featured"]
+hypnotube.com##[href="https://hypnotube.com/static/games"]
+hypnotube.com##[href="https://hypnotube.com/static/store"]
 hypnotube.com##[href="https://hypnouniversity.net/"]
+hypnotube.com##[href="https://www.hypnotube.lsl.com/en/"]
 hypnotube.com##[href^="//ptapjmp.com/"]
 hypnotube.com##div.top-ban-item > [href="https://lovense.com/p/Hypnotube"]
 hypnotube.com##font

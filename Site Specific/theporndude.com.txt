@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (theporndude.com)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/01
+! Last modified: 2024/08/16
 
 
 theporndude.com##.quotes

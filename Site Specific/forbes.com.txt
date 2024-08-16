@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (forbes.com)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/10
+! Last modified: 2024/08/16
 
 
 www.forbes.com###article-container-1 > .top-ad__hide-label.top-ad__individual-content.fbs-ad--top-wrapper.top-ad-container

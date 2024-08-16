@@ -1,0 +1,6 @@
+! Title: Earthworm-Banana's Filters (gdlauncher.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/08/16
+
+
+gdlauncher.com##[href="https://www.bisecthosting.com/gdl"]
