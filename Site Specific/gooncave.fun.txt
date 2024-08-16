@@ -1,0 +1,7 @@
+! Title: Earthworm-Banana's Filters (gooncave.fun)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/08/16
+
+
+gooncave.fun###frame
+gooncave.fun##[href]
