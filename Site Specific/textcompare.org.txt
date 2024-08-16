@@ -1,0 +1,6 @@
+! Title: Earthworm-Banana's Filters (textcompare.org)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/08/16
+
+
+www.textcompare.org##div.mui-19wbou7.MuiContainer-maxWidthLg.MuiContainer-root
