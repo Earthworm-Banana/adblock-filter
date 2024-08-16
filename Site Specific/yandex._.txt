@@ -10,6 +10,7 @@ yandex.*##.AdvRsyaSearchColumn
 yandex.*##.AdvRsyaSearchColumnarchColumnColumn
 yandex.*##.ImagesViewer-SidebarAdv
 yandex.*##.RelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
+yandex.*##.aA5ygBEyo6QM2-Card_aLL6HGUegygYy.aA5ygBEyo6QM2-Card
 yandex.*##.images-viewer-content2__behavioral-direct
 yandex.*##.j6EpkLueUNnrb-Card_jx2hDMaycFX_f.j6EpkLueUNnrb-Card
 yandex.*##[class$="-Incut"]
