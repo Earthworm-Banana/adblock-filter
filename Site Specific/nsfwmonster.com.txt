@@ -1,0 +1,7 @@
+! Title: Earthworm-Banana's Filters (nsfwmonster.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/08/16
+
+
+nsfwmonster.com##.osBannerPreload
+||camonster.io/streams/streams_live.php$subdocument
