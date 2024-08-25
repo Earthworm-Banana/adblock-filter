@@ -147,7 +147,7 @@ gooncave.fun##[href]
 
 
 ! Source File: hypnotube.com
-! 2024/08/16
+! 2024/08/25
 
 hypnotube.com###playerOverlay
 hypnotube.com##.aff-item-list-aside.aff-item-list
@@ -164,6 +164,7 @@ hypnotube.com##[href="https://hypnotube.com/static/store"]
 hypnotube.com##[href="https://hypnouniversity.net/"]
 hypnotube.com##[href="https://www.hypnotube.lsl.com/en/"]
 hypnotube.com##[href^="//ptapjmp.com/"]
+hypnotube.com##[href^="http://juicyads.in/tab.php"]
 hypnotube.com##div.top-ban-item > [href="https://lovense.com/p/Hypnotube"]
 hypnotube.com##font
 ||cdn.hypnotube.com/images/hypnoFemClub02.gif$image
