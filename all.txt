@@ -379,7 +379,6 @@ yandex.*##rect
 ! Source File: youtube.com
 ! 2024/08/17
 
-@@||www.youtube.com/api/stats/watchtime$xhr,domain=www.youtube.com
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 ||fonts.gstatic.com^$font,domain=youtube.com
 ||www.youtube.com/api/stats/*$1p
