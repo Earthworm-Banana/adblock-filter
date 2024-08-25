@@ -1,0 +1,5 @@
+! Title: Earthworm-Banana's Filters (Allow YouTube Watch-time tracking)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/08/25
+
+@@||www.youtube.com/api/stats/watchtime$xhr
