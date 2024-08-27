@@ -1,0 +1,8 @@
+! Title: Earthworm-Banana's Filters (redgifs.com)
+! Homepage: https://github.com/Earthworm-Banana/adblock-filter
+! Last modified: 2024/08/27
+
+
+www.redgifs.com##._aTab_1v87g_1
+www.redgifs.com##._adLiveButton_1lvnn_1
+||www.redgifs.com/static/live-*.webp$image
