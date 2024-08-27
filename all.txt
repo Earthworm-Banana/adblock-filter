@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (All)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/08/25
+! Last modified: 2024/08/27
 
 
 ! Source File: audiobookbay._
@@ -213,6 +213,14 @@ pornwebmasters.com##.quotes
 
 
 
+! Source File: redgifs.com
+! 2024/08/27
+www.redgifs.com##._aTab_1v87g_1
+www.redgifs.com##._adLiveButton_1lvnn_1
+||www.redgifs.com/static/live-*.webp$image
+
+
+
 ! Source File: rule34.paheal.net
 ! 2024/08/16
 
@@ -294,8 +302,10 @@ rule34hentai.net##[id$="zmain"]
 
 
 ! Source File: sissyhypno.com
-! 2024/08/16
+! 2024/08/25
 
+sissyhypno.com##.bms_richmedia.bms_right_right.bms_slider.bms_slider_div
+sissyhypno.com##.bms_video
 sissyhypno.com##.col.aff-content-col
 sissyhypno.com##.network-sec
 sissyhypno.com##[href="https://bestpornsites.xxx/shemale-porn-sites"]
