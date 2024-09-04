@@ -1,6 +1,6 @@
 ! Title: Earthworm-Banana's Filters (All)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/08/27
+! Last modified: 2024/09/04
 
 
 ! Source File: audiobookbay._
@@ -389,11 +389,10 @@ yandex.*##rect
 
 
 ! Source File: youtube.com
-! 2024/08/25
+! 2024/09/04
 
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 ||fonts.gstatic.com^$font,domain=youtube.com
-||www.youtube.com/api/stats/*$1p
 ||www.youtube.com/s/player/*/player_ias.vflset/*/remote.js$script,1p
 
 
