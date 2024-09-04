@@ -1,7 +1,7 @@
 ! Title: Earthworm-Banana's Filters (Media Cast Block)
 ! Homepage: https://github.com/Earthworm-Banana/adblock-filter
-! Last modified: 2024/02/01
+! Last modified: 2024/09/04
 
 
-||gstatic.com/*/cast_sender.js
-||www.gstatic.com/*/cast_sender.js
+||gstatic.com/*/cast_sender.js$important
+||www.gstatic.com/*/cast_sender.js$important
